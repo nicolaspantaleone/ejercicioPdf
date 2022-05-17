@@ -1,6 +1,6 @@
  const array = [2,4,5,6,7,8,9];
 
-// const acumpares = array.filter((element) => element%2==0).reduce((acum,el)=> acum+el);
+//  const acumpares = array.filter((element) => element%2==0).reduce((acum,el)=> acum+el);
 
 // // const acum = array.reduce(function(acum,el){
 // //     return acum+el;
